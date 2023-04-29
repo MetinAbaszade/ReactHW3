@@ -1,0 +1,12 @@
+p{
+    font-size: 19px;
+} 
+
+.userCard {
+  border: 1px solid #ccc;
+  margin: 15px 0 10px 0;
+  padding: 0 0 0 15px;
+  border-radius: 0.5rem; 
+  background-color: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
